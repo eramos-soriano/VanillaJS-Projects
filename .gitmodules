@@ -4,3 +4,6 @@
 [submodule "NumCounter"]
 	path = NumCounter
 	url = https://github.com/eramos-soriano/NumCounter
+[submodule "todoList"]
+	path = todoList
+	url = https://github.com/eramos-soriano/todoList
